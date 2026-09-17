@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updated": "2026-08-25",
+  "updated": "2026-09-17",
   "notes": [
     "vis: 0 = never visited, 1 = visited before 2026, 2 = visited during the current itinerary.",
     "Any NEW future first-time visits in this itinerary should also use vis: 2.",
@@ -2428,6 +2428,6 @@
       "clk": 0
     }
   ],
-  "nextCountry": "Azerbaijan",
-  "nextData": "September 18, 2026"
+  "nextCountry": "Armenia",
+  "nextData": "October 3, 2026"
 }
