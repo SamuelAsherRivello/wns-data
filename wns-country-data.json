@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updated": "2026-09-17",
+  "updated": "2026-11-01",
   "notes": [
     "vis: 0 = never visited, 1 = visited before 2026, 2 = visited during the current itinerary.",
     "Any NEW future first-time visits in this itinerary should also use vis: 2.",
@@ -97,13 +97,13 @@
     },
     {
       "cou": "Armenia",
-      "vis": 0,
+      "vis": 2,
       "ord": 18,
       "con": "Asia",
       "lat": 40.0691,
       "lon": 45.0382,
       "ind": 1,
-      "bok": 0,
+      "bok": 1,
       "clk": 0
     },
     {
