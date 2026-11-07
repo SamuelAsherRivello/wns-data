@@ -94,7 +94,39 @@
       "lon": -64,
       "ind": 1,
       "bok": 1,
-      "clk": 0
+      "clk": 0,
+      "visits": [
+        {
+          "date": "2010-01-01",
+          "precision": "year",
+          "sequence": 35,
+          "orderCertain": false,
+          "status": "visited",
+          "source": "https://www.whatsnextsam.com/annual-review-2010/",
+          "reviewPeriod": "2010",
+          "reviewOrder": 3
+        },
+        {
+          "date": "2023-01-01",
+          "precision": "year",
+          "sequence": 124,
+          "orderCertain": false,
+          "status": "visited",
+          "source": "https://www.whatsnextsam.com/annual-review-2023/",
+          "reviewPeriod": "2023",
+          "reviewOrder": 8
+        },
+        {
+          "date": "2024-01-01",
+          "precision": "year",
+          "sequence": 125,
+          "orderCertain": false,
+          "status": "visited",
+          "source": "https://www.whatsnextsam.com/annual-review-2024/",
+          "reviewPeriod": "2024",
+          "reviewOrder": 1
+        }
+      ]
     },
     {
       "cou": "Armenia",
@@ -126,7 +158,29 @@
       "lon": -69.9683,
       "ind": 0,
       "bok": 1,
-      "clk": 0
+      "clk": 0,
+      "visits": [
+        {
+          "date": "2010-12-05",
+          "precision": "day",
+          "sequence": 44,
+          "orderCertain": false,
+          "status": "visited",
+          "source": "https://www.whatsnextsam.com/annual-review-2010/",
+          "reviewPeriod": "2010",
+          "reviewOrder": 12
+        },
+        {
+          "date": "2011-01-01",
+          "precision": "year",
+          "sequence": 48,
+          "orderCertain": false,
+          "status": "visited",
+          "source": "https://www.whatsnextsam.com/annual-review-2011/",
+          "reviewPeriod": "2011",
+          "reviewOrder": 3
+        }
+      ]
     },
     {
       "cou": "Australia",
@@ -235,7 +289,19 @@
       "lon": -59.5432,
       "ind": 1,
       "bok": 1,
-      "clk": 0
+      "clk": 0,
+      "visits": [
+        {
+          "date": "2020-01-01",
+          "precision": "year",
+          "sequence": 91,
+          "orderCertain": false,
+          "status": "visited",
+          "source": "https://www.whatsnextsam.com/annual-review-2020/",
+          "reviewPeriod": "2020",
+          "reviewOrder": 2
+        }
+      ]
     },
     {
       "cou": "Belarus",
@@ -321,7 +387,19 @@
       "lon": -63.5887,
       "ind": 1,
       "bok": 1,
-      "clk": 0
+      "clk": 0,
+      "visits": [
+        {
+          "date": "2011-06-05",
+          "precision": "day",
+          "sequence": 52,
+          "orderCertain": false,
+          "status": "visited",
+          "source": "https://www.whatsnextsam.com/annual-review-2011/",
+          "reviewPeriod": "2011",
+          "reviewOrder": 7
+        }
+      ]
     },
     {
       "cou": "Bonaire (Netherlands)",
@@ -332,7 +410,29 @@
       "lon": -68.2385,
       "ind": 0,
       "bok": 1,
-      "clk": 0
+      "clk": 0,
+      "visits": [
+        {
+          "date": "2010-12-23",
+          "precision": "day",
+          "sequence": 46,
+          "orderCertain": false,
+          "status": "visited",
+          "source": "https://www.whatsnextsam.com/annual-review-2010/",
+          "reviewPeriod": "2010",
+          "reviewOrder": 14
+        },
+        {
+          "date": "2012-08-02",
+          "precision": "day",
+          "sequence": 67,
+          "orderCertain": false,
+          "status": "visited",
+          "source": "https://www.whatsnextsam.com/annual-review-2012/",
+          "reviewPeriod": "2012",
+          "reviewOrder": 4
+        }
+      ]
     },
     {
       "cou": "Bosnia and Herzegovina",
@@ -364,7 +464,19 @@
       "lon": 24.6849,
       "ind": 1,
       "bok": 1,
-      "clk": 0
+      "clk": 0,
+      "visits": [
+        {
+          "date": "2022-01-01",
+          "precision": "year",
+          "sequence": 115,
+          "orderCertain": false,
+          "status": "visited",
+          "source": "https://www.whatsnextsam.com/annual-review-2022/",
+          "reviewPeriod": "2022",
+          "reviewOrder": 9
+        }
+      ]
     },
     {
       "cou": "Brazil",
@@ -375,7 +487,69 @@
       "lon": -51.9253,
       "ind": 1,
       "bok": 1,
-      "clk": 0
+      "clk": 0,
+      "visits": [
+        {
+          "date": "2010-01-14",
+          "precision": "day",
+          "sequence": 34,
+          "orderCertain": false,
+          "status": "visited",
+          "source": "https://www.whatsnextsam.com/annual-review-2010/",
+          "reviewPeriod": "2010",
+          "reviewOrder": 2
+        },
+        {
+          "date": "2011-01-19",
+          "precision": "day",
+          "sequence": 50,
+          "orderCertain": false,
+          "status": "visited",
+          "source": "https://www.whatsnextsam.com/annual-review-2011/",
+          "reviewPeriod": "2011",
+          "reviewOrder": 5
+        },
+        {
+          "date": "2011-12-29",
+          "precision": "day",
+          "sequence": 64,
+          "orderCertain": false,
+          "status": "visited",
+          "source": "https://www.whatsnextsam.com/annual-review-2012/",
+          "reviewPeriod": "2012",
+          "reviewOrder": 1
+        },
+        {
+          "date": "2019-01-01",
+          "precision": "year",
+          "sequence": 84,
+          "orderCertain": false,
+          "status": "visited",
+          "source": "https://www.whatsnextsam.com/annual-review-2019/",
+          "reviewPeriod": "2019",
+          "reviewOrder": 6
+        },
+        {
+          "date": "2023-01-01",
+          "precision": "year",
+          "sequence": 123,
+          "orderCertain": false,
+          "status": "visited",
+          "source": "https://www.whatsnextsam.com/annual-review-2023/",
+          "reviewPeriod": "2023",
+          "reviewOrder": 7
+        },
+        {
+          "date": "2025-01-01",
+          "precision": "year",
+          "sequence": 130,
+          "orderCertain": false,
+          "status": "visited",
+          "source": "https://www.whatsnextsam.com/annual-review-2025/",
+          "reviewPeriod": "2025",
+          "reviewOrder": 2
+        }
+      ]
     },
     {
       "cou": "Brunei",
@@ -528,7 +702,29 @@
       "lon": -71.543,
       "ind": 1,
       "bok": 1,
-      "clk": 0
+      "clk": 0,
+      "visits": [
+        {
+          "date": "2010-01-01",
+          "precision": "year",
+          "sequence": 36,
+          "orderCertain": false,
+          "status": "visited",
+          "source": "https://www.whatsnextsam.com/annual-review-2010/",
+          "reviewPeriod": "2010",
+          "reviewOrder": 4
+        },
+        {
+          "date": "2024-01-01",
+          "precision": "year",
+          "sequence": 126,
+          "orderCertain": false,
+          "status": "visited",
+          "source": "https://www.whatsnextsam.com/annual-review-2024/",
+          "reviewPeriod": "2024",
+          "reviewOrder": 2
+        }
+      ]
     },
     {
       "cou": "China",
@@ -550,7 +746,39 @@
       "lon": -74.2973,
       "ind": 1,
       "bok": 1,
-      "clk": 0
+      "clk": 0,
+      "visits": [
+        {
+          "date": "2010-07-13",
+          "precision": "day",
+          "sequence": 38,
+          "orderCertain": false,
+          "status": "visited",
+          "source": "https://www.whatsnextsam.com/annual-review-2010/",
+          "reviewPeriod": "2010",
+          "reviewOrder": 6
+        },
+        {
+          "date": "2012-08-31",
+          "precision": "day",
+          "sequence": 68,
+          "orderCertain": false,
+          "status": "visited",
+          "source": "https://www.whatsnextsam.com/annual-review-2012/",
+          "reviewPeriod": "2012",
+          "reviewOrder": 5
+        },
+        {
+          "date": "2019-01-01",
+          "precision": "year",
+          "sequence": 82,
+          "orderCertain": false,
+          "status": "visited",
+          "source": "https://www.whatsnextsam.com/annual-review-2019/",
+          "reviewPeriod": "2019",
+          "reviewOrder": 4
+        }
+      ]
     },
     {
       "cou": "Comoros",
@@ -572,7 +800,39 @@
       "lon": -83.7534,
       "ind": 1,
       "bok": 1,
-      "clk": 0
+      "clk": 0,
+      "visits": [
+        {
+          "date": "2020-01-01",
+          "precision": "year",
+          "sequence": 96,
+          "orderCertain": false,
+          "status": "visited",
+          "source": "https://www.whatsnextsam.com/annual-review-2020/",
+          "reviewPeriod": "2020",
+          "reviewOrder": 7
+        },
+        {
+          "date": "2020-01-01",
+          "precision": "year",
+          "sequence": 98,
+          "orderCertain": false,
+          "status": "visited",
+          "source": "https://www.whatsnextsam.com/annual-review-2020/",
+          "reviewPeriod": "2020",
+          "reviewOrder": 9
+        },
+        {
+          "date": "2021-01-01",
+          "precision": "year",
+          "sequence": 99,
+          "orderCertain": false,
+          "status": "visited",
+          "source": "https://www.whatsnextsam.com/annual-review-2021/",
+          "reviewPeriod": "2021",
+          "reviewOrder": 1
+        }
+      ]
     },
     {
       "cou": "Croatia",
@@ -605,7 +865,29 @@
       "lon": -68.99,
       "ind": 0,
       "bok": 1,
-      "clk": 0
+      "clk": 0,
+      "visits": [
+        {
+          "date": "2010-01-01",
+          "precision": "year",
+          "sequence": 45,
+          "orderCertain": false,
+          "status": "visited",
+          "source": "https://www.whatsnextsam.com/annual-review-2010/",
+          "reviewPeriod": "2010",
+          "reviewOrder": 13
+        },
+        {
+          "date": "2011-01-01",
+          "precision": "year",
+          "sequence": 47,
+          "orderCertain": false,
+          "status": "visited",
+          "source": "https://www.whatsnextsam.com/annual-review-2011/",
+          "reviewPeriod": "2011",
+          "reviewOrder": 2
+        }
+      ]
     },
     {
       "cou": "Cyprus",
@@ -702,7 +984,19 @@
       "lon": -70.1627,
       "ind": 1,
       "bok": 1,
-      "clk": 0
+      "clk": 0,
+      "visits": [
+        {
+          "date": "2012-07-04",
+          "precision": "day",
+          "sequence": 66,
+          "orderCertain": false,
+          "status": "visited",
+          "source": "https://www.whatsnextsam.com/annual-review-2012/",
+          "reviewPeriod": "2012",
+          "reviewOrder": 3
+        }
+      ]
     },
     {
       "cou": "Ecuador",
@@ -713,7 +1007,19 @@
       "lon": -78.1834,
       "ind": 1,
       "bok": 1,
-      "clk": 0
+      "clk": 0,
+      "visits": [
+        {
+          "date": "2010-04-13",
+          "precision": "day",
+          "sequence": 37,
+          "orderCertain": false,
+          "status": "visited",
+          "source": "https://www.whatsnextsam.com/annual-review-2010/",
+          "reviewPeriod": "2010",
+          "reviewOrder": 5
+        }
+      ]
     },
     {
       "cou": "Egypt",
@@ -724,7 +1030,29 @@
       "lon": 31.2336,
       "ind": 1,
       "bok": 1,
-      "clk": 0
+      "clk": 0,
+      "visits": [
+        {
+          "date": "2011-10-17",
+          "precision": "day",
+          "sequence": 57,
+          "orderCertain": false,
+          "status": "visited",
+          "source": "https://www.whatsnextsam.com/annual-review-2011/",
+          "reviewPeriod": "2011",
+          "reviewOrder": 12
+        },
+        {
+          "date": "2011-11-18",
+          "precision": "day",
+          "sequence": 60,
+          "orderCertain": false,
+          "status": "visited",
+          "source": "https://www.whatsnextsam.com/annual-review-2011/",
+          "reviewPeriod": "2011",
+          "reviewOrder": 15
+        }
+      ]
     },
     {
       "cou": "El Salvador",
@@ -735,7 +1063,19 @@
       "lon": -88.8965,
       "ind": 1,
       "bok": 1,
-      "clk": 0
+      "clk": 0,
+      "visits": [
+        {
+          "date": "2021-01-01",
+          "precision": "year",
+          "sequence": 102,
+          "orderCertain": false,
+          "status": "visited",
+          "source": "https://www.whatsnextsam.com/annual-review-2021/",
+          "reviewPeriod": "2021",
+          "reviewOrder": 4
+        }
+      ]
     },
     {
       "cou": "Equatorial Guinea",
@@ -844,7 +1184,39 @@
       "lon": 1.8883,
       "ind": 1,
       "bok": 1,
-      "clk": 0
+      "clk": 0,
+      "visits": [
+        {
+          "date": "2020-01-01",
+          "precision": "year",
+          "sequence": 94,
+          "orderCertain": false,
+          "status": "visited",
+          "source": "https://www.whatsnextsam.com/annual-review-2020/",
+          "reviewPeriod": "2020",
+          "reviewOrder": 5
+        },
+        {
+          "date": "2021-01-01",
+          "precision": "year",
+          "sequence": 106,
+          "orderCertain": false,
+          "status": "visited",
+          "source": "https://www.whatsnextsam.com/annual-review-2021/",
+          "reviewPeriod": "2021",
+          "reviewOrder": 8
+        },
+        {
+          "date": "2022-01-01",
+          "precision": "year",
+          "sequence": 107,
+          "orderCertain": false,
+          "status": "visited",
+          "source": "https://www.whatsnextsam.com/annual-review-2022/",
+          "reviewPeriod": "2022",
+          "reviewOrder": 1
+        }
+      ]
     },
     {
       "cou": "French Guiana (France)",
@@ -910,7 +1282,19 @@
       "lon": 10.4515,
       "ind": 1,
       "bok": 1,
-      "clk": 0
+      "clk": 0,
+      "visits": [
+        {
+          "date": "2013-11-03",
+          "precision": "day",
+          "sequence": 77,
+          "orderCertain": false,
+          "status": "visited",
+          "source": "https://www.whatsnextsam.com/annual-review-2013/",
+          "reviewPeriod": "2013",
+          "reviewOrder": 8
+        }
+      ]
     },
     {
       "cou": "Ghana",
@@ -954,7 +1338,19 @@
       "lon": -61.551,
       "ind": 0,
       "bok": 1,
-      "clk": 0
+      "clk": 0,
+      "visits": [
+        {
+          "date": "2020-01-01",
+          "precision": "year",
+          "sequence": 93,
+          "orderCertain": false,
+          "status": "visited",
+          "source": "https://www.whatsnextsam.com/annual-review-2020/",
+          "reviewPeriod": "2020",
+          "reviewOrder": 4
+        }
+      ]
     },
     {
       "cou": "Guatemala",
@@ -965,7 +1361,19 @@
       "lon": -90.2308,
       "ind": 1,
       "bok": 1,
-      "clk": 0
+      "clk": 0,
+      "visits": [
+        {
+          "date": "2025-01-01",
+          "precision": "year",
+          "sequence": 134,
+          "orderCertain": false,
+          "status": "visited",
+          "source": "https://www.whatsnextsam.com/annual-review-2025/",
+          "reviewPeriod": "2025",
+          "reviewOrder": 6
+        }
+      ]
     },
     {
       "cou": "Guinea",
@@ -998,7 +1406,19 @@
       "lon": -58.9302,
       "ind": 1,
       "bok": 1,
-      "clk": 0
+      "clk": 0,
+      "visits": [
+        {
+          "date": "2025-01-01",
+          "precision": "year",
+          "sequence": 132,
+          "orderCertain": false,
+          "status": "visited",
+          "source": "https://www.whatsnextsam.com/annual-review-2025/",
+          "reviewPeriod": "2025",
+          "reviewOrder": 4
+        }
+      ]
     },
     {
       "cou": "Haiti",
@@ -1105,7 +1525,19 @@
       "lon": 118,
       "ind": 1,
       "bok": 1,
-      "clk": 0
+      "clk": 0,
+      "visits": [
+        {
+          "date": "2013-03-01",
+          "precision": "day",
+          "sequence": 72,
+          "orderCertain": false,
+          "status": "visited",
+          "source": "https://www.whatsnextsam.com/annual-review-2013/",
+          "reviewPeriod": "2013",
+          "reviewOrder": 3
+        }
+      ]
     },
     {
       "cou": "Iran",
@@ -1138,7 +1570,19 @@
       "lon": -8.2439,
       "ind": 1,
       "bok": 1,
-      "clk": 0
+      "clk": 0,
+      "visits": [
+        {
+          "date": "2022-01-01",
+          "precision": "year",
+          "sequence": 110,
+          "orderCertain": false,
+          "status": "visited",
+          "source": "https://www.whatsnextsam.com/annual-review-2022/",
+          "reviewPeriod": "2022",
+          "reviewOrder": 4
+        }
+      ]
     },
     {
       "cou": "Israel",
@@ -1149,7 +1593,19 @@
       "lon": 34.8516,
       "ind": 1,
       "bok": 1,
-      "clk": 0
+      "clk": 0,
+      "visits": [
+        {
+          "date": "2011-11-08",
+          "precision": "day",
+          "sequence": 58,
+          "orderCertain": false,
+          "status": "visited",
+          "source": "https://www.whatsnextsam.com/annual-review-2011/",
+          "reviewPeriod": "2011",
+          "reviewOrder": 13
+        }
+      ]
     },
     {
       "cou": "Italy",
@@ -1160,7 +1616,29 @@
       "lon": 12.8333,
       "ind": 1,
       "bok": 1,
-      "clk": 0
+      "clk": 0,
+      "visits": [
+        {
+          "date": "2011-07-02",
+          "precision": "day",
+          "sequence": 54,
+          "orderCertain": false,
+          "status": "visited",
+          "source": "https://www.whatsnextsam.com/annual-review-2011/",
+          "reviewPeriod": "2011",
+          "reviewOrder": 9
+        },
+        {
+          "date": "2011-12-01",
+          "precision": "day",
+          "sequence": 62,
+          "orderCertain": false,
+          "status": "visited",
+          "source": "https://www.whatsnextsam.com/annual-review-2011/",
+          "reviewPeriod": "2011",
+          "reviewOrder": 17
+        }
+      ]
     },
     {
       "cou": "Ivory Coast",
@@ -1204,7 +1682,19 @@
       "lon": 37,
       "ind": 1,
       "bok": 1,
-      "clk": 0
+      "clk": 0,
+      "visits": [
+        {
+          "date": "2011-11-13",
+          "precision": "day",
+          "sequence": 59,
+          "orderCertain": false,
+          "status": "visited",
+          "source": "https://www.whatsnextsam.com/annual-review-2011/",
+          "reviewPeriod": "2011",
+          "reviewOrder": 14
+        }
+      ]
     },
     {
       "cou": "Kazakhstan",
@@ -1226,7 +1716,19 @@
       "lon": 36.8219,
       "ind": 1,
       "bok": 1,
-      "clk": 0
+      "clk": 0,
+      "visits": [
+        {
+          "date": "2023-01-01",
+          "precision": "year",
+          "sequence": 119,
+          "orderCertain": false,
+          "status": "visited",
+          "source": "https://www.whatsnextsam.com/annual-review-2023/",
+          "reviewPeriod": "2023",
+          "reviewOrder": 3
+        }
+      ]
     },
     {
       "cou": "Kiribati",
@@ -1443,7 +1945,19 @@
       "lon": 101.9758,
       "ind": 1,
       "bok": 1,
-      "clk": 0
+      "clk": 0,
+      "visits": [
+        {
+          "date": "2013-04-27",
+          "precision": "day",
+          "sequence": 74,
+          "orderCertain": false,
+          "status": "visited",
+          "source": "https://www.whatsnextsam.com/annual-review-2013/",
+          "reviewPeriod": "2013",
+          "reviewOrder": 5
+        }
+      ]
     },
     {
       "cou": "Maldives",
@@ -1498,7 +2012,19 @@
       "lon": -61.0242,
       "ind": 0,
       "bok": 1,
-      "clk": 0
+      "clk": 0,
+      "visits": [
+        {
+          "date": "2019-01-01",
+          "precision": "year",
+          "sequence": 88,
+          "orderCertain": false,
+          "status": "visited",
+          "source": "https://www.whatsnextsam.com/annual-review-2019/",
+          "reviewPeriod": "2019",
+          "reviewOrder": 10
+        }
+      ]
     },
     {
       "cou": "Mauritania",
@@ -1542,7 +2068,39 @@
       "lon": -102,
       "ind": 1,
       "bok": 1,
-      "clk": 0
+      "clk": 0,
+      "visits": [
+        {
+          "date": "2020-01-01",
+          "precision": "year",
+          "sequence": 97,
+          "orderCertain": false,
+          "status": "visited",
+          "source": "https://www.whatsnextsam.com/annual-review-2020/",
+          "reviewPeriod": "2020",
+          "reviewOrder": 8
+        },
+        {
+          "date": "2021-01-01",
+          "precision": "year",
+          "sequence": 104,
+          "orderCertain": false,
+          "status": "visited",
+          "source": "https://www.whatsnextsam.com/annual-review-2021/",
+          "reviewPeriod": "2021",
+          "reviewOrder": 6
+        },
+        {
+          "date": "2025-01-01",
+          "precision": "year",
+          "sequence": 129,
+          "orderCertain": false,
+          "status": "visited",
+          "source": "https://www.whatsnextsam.com/annual-review-2025/",
+          "reviewPeriod": "2025",
+          "reviewOrder": 1
+        }
+      ]
     },
     {
       "cou": "Micronesia",
@@ -1649,7 +2207,19 @@
       "lon": 35.5296,
       "ind": 1,
       "bok": 1,
-      "clk": 0
+      "clk": 0,
+      "visits": [
+        {
+          "date": "2023-01-01",
+          "precision": "year",
+          "sequence": 118,
+          "orderCertain": false,
+          "status": "visited",
+          "source": "https://www.whatsnextsam.com/annual-review-2023/",
+          "reviewPeriod": "2023",
+          "reviewOrder": 2
+        }
+      ]
     },
     {
       "cou": "Myanmar",
@@ -1671,7 +2241,19 @@
       "lon": 18.4904,
       "ind": 1,
       "bok": 1,
-      "clk": 0
+      "clk": 0,
+      "visits": [
+        {
+          "date": "2022-01-01",
+          "precision": "year",
+          "sequence": 116,
+          "orderCertain": false,
+          "status": "visited",
+          "source": "https://www.whatsnextsam.com/annual-review-2022/",
+          "reviewPeriod": "2022",
+          "reviewOrder": 10
+        }
+      ]
     },
     {
       "cou": "Nauru",
@@ -1723,6 +2305,17 @@
           "orderCertain": false,
           "status": "visited",
           "source": "Owner-reported visit dates in What's Next Sam project conversation, 2026-11-07"
+        },
+        {
+          "date": "2019-01-01",
+          "precision": "year",
+          "sequence": 87,
+          "orderCertain": false,
+          "status": "visited",
+          "source": "https://www.whatsnextsam.com/annual-review-2019/",
+          "reviewPeriod": "2019",
+          "reviewOrder": 9,
+          "location": "Sint Maarten"
         }
       ]
     },
@@ -1746,7 +2339,19 @@
       "lon": -85.2072,
       "ind": 1,
       "bok": 1,
-      "clk": 0
+      "clk": 0,
+      "visits": [
+        {
+          "date": "2021-01-01",
+          "precision": "year",
+          "sequence": 101,
+          "orderCertain": false,
+          "status": "visited",
+          "source": "https://www.whatsnextsam.com/annual-review-2021/",
+          "reviewPeriod": "2021",
+          "reviewOrder": 3
+        }
+      ]
     },
     {
       "cou": "Niger",
@@ -1866,7 +2471,29 @@
       "lon": -80.782127,
       "ind": 1,
       "bok": 1,
-      "clk": 0
+      "clk": 0,
+      "visits": [
+        {
+          "date": "2010-09-01",
+          "precision": "day",
+          "sequence": 39,
+          "orderCertain": false,
+          "status": "visited",
+          "source": "https://www.whatsnextsam.com/annual-review-2010/",
+          "reviewPeriod": "2010",
+          "reviewOrder": 7
+        },
+        {
+          "date": "2010-09-22",
+          "precision": "day",
+          "sequence": 41,
+          "orderCertain": false,
+          "status": "visited",
+          "source": "https://www.whatsnextsam.com/annual-review-2010/",
+          "reviewPeriod": "2010",
+          "reviewOrder": 9
+        }
+      ]
     },
     {
       "cou": "Papua New Guinea",
@@ -1888,7 +2515,19 @@
       "lon": -58.4438,
       "ind": 1,
       "bok": 1,
-      "clk": 0
+      "clk": 0,
+      "visits": [
+        {
+          "date": "2023-01-01",
+          "precision": "year",
+          "sequence": 122,
+          "orderCertain": false,
+          "status": "visited",
+          "source": "https://www.whatsnextsam.com/annual-review-2023/",
+          "reviewPeriod": "2023",
+          "reviewOrder": 6
+        }
+      ]
     },
     {
       "cou": "Peru",
@@ -1899,7 +2538,39 @@
       "lon": -76,
       "ind": 1,
       "bok": 1,
-      "clk": 1
+      "clk": 1,
+      "visits": [
+        {
+          "date": "2011-04-16",
+          "precision": "day",
+          "sequence": 51,
+          "orderCertain": false,
+          "status": "visited",
+          "source": "https://www.whatsnextsam.com/annual-review-2011/",
+          "reviewPeriod": "2011",
+          "reviewOrder": 6
+        },
+        {
+          "date": "2019-01-01",
+          "precision": "year",
+          "sequence": 83,
+          "orderCertain": false,
+          "status": "visited",
+          "source": "https://www.whatsnextsam.com/annual-review-2019/",
+          "reviewPeriod": "2019",
+          "reviewOrder": 5
+        },
+        {
+          "date": "2024-01-01",
+          "precision": "year",
+          "sequence": 127,
+          "orderCertain": false,
+          "status": "visited",
+          "source": "https://www.whatsnextsam.com/annual-review-2024/",
+          "reviewPeriod": "2024",
+          "reviewOrder": 3
+        }
+      ]
     },
     {
       "cou": "Philippines",
@@ -1910,7 +2581,19 @@
       "lon": 122,
       "ind": 1,
       "bok": 1,
-      "clk": 0
+      "clk": 0,
+      "visits": [
+        {
+          "date": "2013-01-03",
+          "precision": "day",
+          "sequence": 71,
+          "orderCertain": false,
+          "status": "visited",
+          "source": "https://www.whatsnextsam.com/annual-review-2013/",
+          "reviewPeriod": "2013",
+          "reviewOrder": 2
+        }
+      ]
     },
     {
       "cou": "Poland",
@@ -2061,7 +2744,29 @@
       "lon": -60.9789,
       "ind": 1,
       "bok": 1,
-      "clk": 0
+      "clk": 0,
+      "visits": [
+        {
+          "date": "2019-01-01",
+          "precision": "year",
+          "sequence": 89,
+          "orderCertain": false,
+          "status": "visited",
+          "source": "https://www.whatsnextsam.com/annual-review-2019/",
+          "reviewPeriod": "2019",
+          "reviewOrder": 11
+        },
+        {
+          "date": "2020-01-01",
+          "precision": "year",
+          "sequence": 90,
+          "orderCertain": false,
+          "status": "visited",
+          "source": "https://www.whatsnextsam.com/annual-review-2020/",
+          "reviewPeriod": "2020",
+          "reviewOrder": 1
+        }
+      ]
     },
     {
       "cou": "Saint Vincent and the Grenadines",
@@ -2072,7 +2777,19 @@
       "lon": -61.2872,
       "ind": 1,
       "bok": 1,
-      "clk": 0
+      "clk": 0,
+      "visits": [
+        {
+          "date": "2020-01-01",
+          "precision": "year",
+          "sequence": 92,
+          "orderCertain": false,
+          "status": "visited",
+          "source": "https://www.whatsnextsam.com/annual-review-2020/",
+          "reviewPeriod": "2020",
+          "reviewOrder": 3
+        }
+      ]
     },
     {
       "cou": "Saint-Pierre and Miquelon (France)",
@@ -2148,7 +2865,19 @@
       "lon": -14.4667,
       "ind": 1,
       "bok": 1,
-      "clk": 0
+      "clk": 0,
+      "visits": [
+        {
+          "date": "2019-01-01",
+          "precision": "year",
+          "sequence": 80,
+          "orderCertain": false,
+          "status": "visited",
+          "source": "https://www.whatsnextsam.com/annual-review-2019/",
+          "reviewPeriod": "2019",
+          "reviewOrder": 2
+        }
+      ]
     },
     {
       "cou": "Serbia",
@@ -2202,7 +2931,29 @@
       "lon": 103.8198,
       "ind": 1,
       "bok": 1,
-      "clk": 0
+      "clk": 0,
+      "visits": [
+        {
+          "date": "2012-12-01",
+          "precision": "day",
+          "sequence": 70,
+          "orderCertain": false,
+          "status": "visited",
+          "source": "https://www.whatsnextsam.com/annual-review-2012/",
+          "reviewPeriod": "2012",
+          "reviewOrder": 7
+        },
+        {
+          "date": "2013-04-27",
+          "precision": "day",
+          "sequence": 73,
+          "orderCertain": false,
+          "status": "visited",
+          "source": "https://www.whatsnextsam.com/annual-review-2013/",
+          "reviewPeriod": "2013",
+          "reviewOrder": 4
+        }
+      ]
     },
     {
       "cou": "Slovakia",
@@ -2277,7 +3028,29 @@
       "lon": 22.9375,
       "ind": 1,
       "bok": 1,
-      "clk": 0
+      "clk": 0,
+      "visits": [
+        {
+          "date": "2022-01-01",
+          "precision": "year",
+          "sequence": 112,
+          "orderCertain": false,
+          "status": "visited",
+          "source": "https://www.whatsnextsam.com/annual-review-2022/",
+          "reviewPeriod": "2022",
+          "reviewOrder": 6
+        },
+        {
+          "date": "2023-01-01",
+          "precision": "year",
+          "sequence": 117,
+          "orderCertain": false,
+          "status": "visited",
+          "source": "https://www.whatsnextsam.com/annual-review-2023/",
+          "reviewPeriod": "2023",
+          "reviewOrder": 1
+        }
+      ]
     },
     {
       "cou": "South Korea",
@@ -2310,7 +3083,49 @@
       "lon": -3.7492,
       "ind": 1,
       "bok": 1,
-      "clk": 0
+      "clk": 0,
+      "visits": [
+        {
+          "date": "2011-06-27",
+          "precision": "day",
+          "sequence": 53,
+          "orderCertain": false,
+          "status": "visited",
+          "source": "https://www.whatsnextsam.com/annual-review-2011/",
+          "reviewPeriod": "2011",
+          "reviewOrder": 8
+        },
+        {
+          "date": "2019-01-01",
+          "precision": "year",
+          "sequence": 79,
+          "orderCertain": false,
+          "status": "visited",
+          "source": "https://www.whatsnextsam.com/annual-review-2019/",
+          "reviewPeriod": "2019",
+          "reviewOrder": 1
+        },
+        {
+          "date": "2020-01-01",
+          "precision": "year",
+          "sequence": 95,
+          "orderCertain": false,
+          "status": "visited",
+          "source": "https://www.whatsnextsam.com/annual-review-2020/",
+          "reviewPeriod": "2020",
+          "reviewOrder": 6
+        },
+        {
+          "date": "2021-01-01",
+          "precision": "year",
+          "sequence": 105,
+          "orderCertain": false,
+          "status": "visited",
+          "source": "https://www.whatsnextsam.com/annual-review-2021/",
+          "reviewPeriod": "2021",
+          "reviewOrder": 7
+        }
+      ]
     },
     {
       "cou": "Sri Lanka",
@@ -2343,7 +3158,19 @@
       "lon": -63.0501,
       "ind": 0,
       "bok": 1,
-      "clk": 0
+      "clk": 0,
+      "visits": [
+        {
+          "date": "2019-01-01",
+          "precision": "year",
+          "sequence": 86,
+          "orderCertain": false,
+          "status": "visited",
+          "source": "https://www.whatsnextsam.com/annual-review-2019/",
+          "reviewPeriod": "2019",
+          "reviewOrder": 8
+        }
+      ]
     },
     {
       "cou": "Sudan",
@@ -2365,7 +3192,19 @@
       "lon": -55.2038,
       "ind": 1,
       "bok": 1,
-      "clk": 0
+      "clk": 0,
+      "visits": [
+        {
+          "date": "2025-01-01",
+          "precision": "year",
+          "sequence": 131,
+          "orderCertain": false,
+          "status": "visited",
+          "source": "https://www.whatsnextsam.com/annual-review-2025/",
+          "reviewPeriod": "2025",
+          "reviewOrder": 3
+        }
+      ]
     },
     {
       "cou": "Sweden",
@@ -2397,7 +3236,29 @@
       "lon": 8.2275,
       "ind": 1,
       "bok": 1,
-      "clk": 0
+      "clk": 0,
+      "visits": [
+        {
+          "date": "2011-01-01",
+          "precision": "year",
+          "sequence": 55,
+          "orderCertain": false,
+          "status": "visited",
+          "source": "https://www.whatsnextsam.com/annual-review-2011/",
+          "reviewPeriod": "2011",
+          "reviewOrder": 10
+        },
+        {
+          "date": "2022-01-01",
+          "precision": "year",
+          "sequence": 108,
+          "orderCertain": false,
+          "status": "visited",
+          "source": "https://www.whatsnextsam.com/annual-review-2022/",
+          "reviewPeriod": "2022",
+          "reviewOrder": 2
+        }
+      ]
     },
     {
       "cou": "Syria",
@@ -2441,7 +3302,19 @@
       "lon": 34.8888,
       "ind": 1,
       "bok": 1,
-      "clk": 0
+      "clk": 0,
+      "visits": [
+        {
+          "date": "2023-01-01",
+          "precision": "year",
+          "sequence": 120,
+          "orderCertain": false,
+          "status": "visited",
+          "source": "https://www.whatsnextsam.com/annual-review-2023/",
+          "reviewPeriod": "2023",
+          "reviewOrder": 4
+        }
+      ]
     },
     {
       "cou": "Thailand",
@@ -2452,7 +3325,19 @@
       "lon": 100.9925,
       "ind": 1,
       "bok": 1,
-      "clk": 0
+      "clk": 0,
+      "visits": [
+        {
+          "date": "2013-08-19",
+          "precision": "day",
+          "sequence": 76,
+          "orderCertain": false,
+          "status": "visited",
+          "source": "https://www.whatsnextsam.com/annual-review-2013/",
+          "reviewPeriod": "2013",
+          "reviewOrder": 7
+        }
+      ]
     },
     {
       "cou": "Timor-Leste",
@@ -2529,7 +3414,29 @@
       "lon": 30.2433,
       "ind": 1,
       "bok": 1,
-      "clk": 0
+      "clk": 0,
+      "visits": [
+        {
+          "date": "2011-09-17",
+          "precision": "day",
+          "sequence": 56,
+          "orderCertain": false,
+          "status": "visited",
+          "source": "https://www.whatsnextsam.com/annual-review-2011/",
+          "reviewPeriod": "2011",
+          "reviewOrder": 11
+        },
+        {
+          "date": "2011-11-28",
+          "precision": "day",
+          "sequence": 61,
+          "orderCertain": false,
+          "status": "visited",
+          "source": "https://www.whatsnextsam.com/annual-review-2011/",
+          "reviewPeriod": "2011",
+          "reviewOrder": 16
+        }
+      ]
     },
     {
       "cou": "Turkmenistan",
@@ -2616,7 +3523,19 @@
       "lon": -3.436,
       "ind": 1,
       "bok": 1,
-      "clk": 0
+      "clk": 0,
+      "visits": [
+        {
+          "date": "2022-01-01",
+          "precision": "year",
+          "sequence": 109,
+          "orderCertain": false,
+          "status": "visited",
+          "source": "https://www.whatsnextsam.com/annual-review-2022/",
+          "reviewPeriod": "2022",
+          "reviewOrder": 3
+        }
+      ]
     },
     {
       "cou": "United States Of America",
@@ -2627,7 +3546,159 @@
       "lon": -98.5795,
       "ind": 1,
       "bok": 1,
-      "clk": 1
+      "clk": 1,
+      "visits": [
+        {
+          "date": "2010-01-01",
+          "precision": "year",
+          "sequence": 33,
+          "orderCertain": false,
+          "status": "visited",
+          "source": "https://www.whatsnextsam.com/annual-review-2010/",
+          "reviewPeriod": "2010",
+          "reviewOrder": 1
+        },
+        {
+          "date": "2010-09-13",
+          "precision": "day",
+          "sequence": 40,
+          "orderCertain": false,
+          "status": "visited",
+          "source": "https://www.whatsnextsam.com/annual-review-2010/",
+          "reviewPeriod": "2010",
+          "reviewOrder": 8
+        },
+        {
+          "date": "2010-11-08",
+          "precision": "day",
+          "sequence": 42,
+          "orderCertain": false,
+          "status": "visited",
+          "source": "https://www.whatsnextsam.com/annual-review-2010/",
+          "reviewPeriod": "2010",
+          "reviewOrder": 10
+        },
+        {
+          "date": "2011-12-02",
+          "precision": "day",
+          "sequence": 63,
+          "orderCertain": false,
+          "status": "visited",
+          "source": "https://www.whatsnextsam.com/annual-review-2011/",
+          "reviewPeriod": "2011",
+          "reviewOrder": 18
+        },
+        {
+          "date": "2012-06-05",
+          "precision": "day",
+          "sequence": 65,
+          "orderCertain": false,
+          "status": "visited",
+          "source": "https://www.whatsnextsam.com/annual-review-2012/",
+          "reviewPeriod": "2012",
+          "reviewOrder": 2
+        },
+        {
+          "date": "2012-11-27",
+          "precision": "day",
+          "sequence": 69,
+          "orderCertain": false,
+          "status": "visited",
+          "source": "https://www.whatsnextsam.com/annual-review-2012/",
+          "reviewPeriod": "2012",
+          "reviewOrder": 6
+        },
+        {
+          "date": "2013-12-22",
+          "precision": "day",
+          "sequence": 78,
+          "orderCertain": false,
+          "status": "visited",
+          "source": "https://www.whatsnextsam.com/annual-review-2013/",
+          "reviewPeriod": "2013",
+          "reviewOrder": 9
+        },
+        {
+          "date": "2019-01-01",
+          "precision": "year",
+          "sequence": 81,
+          "orderCertain": false,
+          "status": "visited",
+          "source": "https://www.whatsnextsam.com/annual-review-2019/",
+          "reviewPeriod": "2019",
+          "reviewOrder": 3
+        },
+        {
+          "date": "2019-01-01",
+          "precision": "year",
+          "sequence": 85,
+          "orderCertain": false,
+          "status": "visited",
+          "source": "https://www.whatsnextsam.com/annual-review-2019/",
+          "reviewPeriod": "2019",
+          "reviewOrder": 7
+        },
+        {
+          "date": "2021-01-01",
+          "precision": "year",
+          "sequence": 100,
+          "orderCertain": false,
+          "status": "visited",
+          "source": "https://www.whatsnextsam.com/annual-review-2021/",
+          "reviewPeriod": "2021",
+          "reviewOrder": 2
+        },
+        {
+          "date": "2021-01-01",
+          "precision": "year",
+          "sequence": 103,
+          "orderCertain": false,
+          "status": "visited",
+          "source": "https://www.whatsnextsam.com/annual-review-2021/",
+          "reviewPeriod": "2021",
+          "reviewOrder": 5
+        },
+        {
+          "date": "2022-01-01",
+          "precision": "year",
+          "sequence": 111,
+          "orderCertain": false,
+          "status": "visited",
+          "source": "https://www.whatsnextsam.com/annual-review-2022/",
+          "reviewPeriod": "2022",
+          "reviewOrder": 5
+        },
+        {
+          "date": "2023-01-01",
+          "precision": "year",
+          "sequence": 121,
+          "orderCertain": false,
+          "status": "visited",
+          "source": "https://www.whatsnextsam.com/annual-review-2023/",
+          "reviewPeriod": "2023",
+          "reviewOrder": 5
+        },
+        {
+          "date": "2024-01-01",
+          "precision": "year",
+          "sequence": 128,
+          "orderCertain": false,
+          "status": "visited",
+          "source": "https://www.whatsnextsam.com/annual-review-2024/",
+          "reviewPeriod": "2024",
+          "reviewOrder": 4
+        },
+        {
+          "date": "2025-01-01",
+          "precision": "year",
+          "sequence": 133,
+          "orderCertain": false,
+          "status": "visited",
+          "source": "https://www.whatsnextsam.com/annual-review-2025/",
+          "reviewPeriod": "2025",
+          "reviewOrder": 5
+        }
+      ]
     },
     {
       "cou": "Uruguay",
@@ -2702,7 +3773,29 @@
       "lon": -66.5897,
       "ind": 1,
       "bok": 1,
-      "clk": 0
+      "clk": 0,
+      "visits": [
+        {
+          "date": "2010-11-15",
+          "precision": "day",
+          "sequence": 43,
+          "orderCertain": false,
+          "status": "visited",
+          "source": "https://www.whatsnextsam.com/annual-review-2010/",
+          "reviewPeriod": "2010",
+          "reviewOrder": 11
+        },
+        {
+          "date": "2011-01-01",
+          "precision": "year",
+          "sequence": 49,
+          "orderCertain": false,
+          "status": "visited",
+          "source": "https://www.whatsnextsam.com/annual-review-2011/",
+          "reviewPeriod": "2011",
+          "reviewOrder": 4
+        }
+      ]
     },
     {
       "cou": "Vietnam",
@@ -2713,7 +3806,19 @@
       "lon": 108.2772,
       "ind": 1,
       "bok": 1,
-      "clk": 0
+      "clk": 0,
+      "visits": [
+        {
+          "date": "2013-05-26",
+          "precision": "day",
+          "sequence": 75,
+          "orderCertain": false,
+          "status": "visited",
+          "source": "https://www.whatsnextsam.com/annual-review-2013/",
+          "reviewPeriod": "2013",
+          "reviewOrder": 6
+        }
+      ]
     },
     {
       "cou": "Yemen",
@@ -2735,7 +3840,19 @@
       "lon": 27.8493,
       "ind": 1,
       "bok": 0,
-      "clk": 0
+      "clk": 0,
+      "visits": [
+        {
+          "date": "2022-01-01",
+          "precision": "year",
+          "sequence": 114,
+          "orderCertain": false,
+          "status": "visited",
+          "source": "https://www.whatsnextsam.com/annual-review-2022/",
+          "reviewPeriod": "2022",
+          "reviewOrder": 8
+        }
+      ]
     },
     {
       "cou": "Zimbabwe",
@@ -2746,7 +3863,19 @@
       "lon": 29.1549,
       "ind": 1,
       "bok": 1,
-      "clk": 0
+      "clk": 0,
+      "visits": [
+        {
+          "date": "2022-01-01",
+          "precision": "year",
+          "sequence": 113,
+          "orderCertain": false,
+          "status": "visited",
+          "source": "https://www.whatsnextsam.com/annual-review-2022/",
+          "reviewPeriod": "2022",
+          "reviewOrder": 7
+        }
+      ]
     }
   ],
   "nextCountry": "Nepal",
