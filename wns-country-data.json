@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updated": "2026-11-01",
+  "updated": "2026-11-07",
   "notes": [
     "vis: 0 = never visited, 1 = visited before 2026, 2 = visited during the current itinerary.",
     "Any NEW future first-time visits in this itinerary should also use vis: 2.",
@@ -2297,13 +2297,13 @@
     },
     {
       "cou": "United Arab Emirates",
-      "vis": 0,
+      "vis": 2,
       "ord": -1,
       "con": "Asia",
       "lat": 23.4241,
       "lon": 53.8478,
       "ind": 1,
-      "bok": 0,
+      "bok": 1,
       "clk": 0
     },
     {
