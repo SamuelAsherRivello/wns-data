@@ -3113,6 +3113,16 @@
           "source": "https://www.whatsnextsam.com/annual-review-2021/",
           "reviewPeriod": "2021",
           "reviewOrder": 7
+        },
+        {
+          "date": null,
+          "precision": "unknown",
+          "sequence": 136,
+          "orderCertain": false,
+          "status": "visited",
+          "source": "Owner-reported Denmark-period itinerary: United States → Spain → Portugal; dates not supplied",
+          "reviewPeriod": "2015-2018",
+          "reviewOrder": 2
         }
       ]
     },
@@ -3698,6 +3708,16 @@
           "source": "https://www.whatsnextsam.com/annual-review-2025/",
           "reviewPeriod": "2025",
           "reviewOrder": 5
+        },
+        {
+          "date": null,
+          "precision": "unknown",
+          "sequence": 135,
+          "orderCertain": false,
+          "status": "visited",
+          "source": "Owner-reported Denmark-period itinerary: United States → Spain → Portugal; dates not supplied",
+          "reviewPeriod": "2015-2018",
+          "reviewOrder": 1
         }
       ]
     },
