@@ -4,7 +4,8 @@
   "notes": [
     "vis: 0 = never visited, 1 = visited before 2026, 2 = visited during the current itinerary.",
     "Any NEW future first-time visits in this itinerary should also use vis: 2.",
-    "Any country with a non-zero vis value must have bok: 1."
+    "Any country with a non-zero vis value must have bok: 1.",
+    "Visit dates use the first day of a month or year when a more precise date is unknown; precision records what is actually known. Entries are partial evidence, not a complete visit history."
   ],
   "countries": [
     {
@@ -104,7 +105,17 @@
       "lon": 45.0382,
       "ind": 1,
       "bok": 1,
-      "clk": 0
+      "clk": 0,
+      "visits": [
+        {
+          "date": "2026-10-31",
+          "precision": "day",
+          "sequence": 29,
+          "orderCertain": false,
+          "status": "visited",
+          "source": "Owner-reported visit dates in What's Next Sam project conversation, 2026-11-07"
+        }
+      ]
     },
     {
       "cou": "Aruba (Netherlands)",
@@ -137,7 +148,17 @@
       "lon": 14.5501,
       "ind": 1,
       "bok": 1,
-      "clk": 0
+      "clk": 0,
+      "visits": [
+        {
+          "date": "2005-07-01",
+          "precision": "month",
+          "sequence": 3,
+          "orderCertain": false,
+          "status": "visited",
+          "source": "Owner-reported visit dates in What's Next Sam project conversation, 2026-11-07"
+        }
+      ]
     },
     {
       "cou": "Azerbaijan",
@@ -236,7 +257,17 @@
       "lon": 4.3517,
       "ind": 1,
       "bok": 1,
-      "clk": 0
+      "clk": 0,
+      "visits": [
+        {
+          "date": "2005-07-01",
+          "precision": "month",
+          "sequence": 4,
+          "orderCertain": false,
+          "status": "visited",
+          "source": "Owner-reported visit dates in What's Next Sam project conversation, 2026-11-07"
+        }
+      ]
     },
     {
       "cou": "Belize",
@@ -247,7 +278,17 @@
       "lon": -88.4976,
       "ind": 1,
       "bok": 1,
-      "clk": 0
+      "clk": 0,
+      "visits": [
+        {
+          "date": "2003-01-01",
+          "precision": "month",
+          "sequence": 2,
+          "orderCertain": false,
+          "status": "visited",
+          "source": "Owner-reported visit dates in What's Next Sam project conversation, 2026-11-07"
+        }
+      ]
     },
     {
       "cou": "Benin",
@@ -302,7 +343,17 @@
       "lon": 17.6791,
       "ind": 1,
       "bok": 1,
-      "clk": 0
+      "clk": 0,
+      "visits": [
+        {
+          "date": null,
+          "precision": "unknown",
+          "sequence": 32,
+          "orderCertain": false,
+          "status": "visited",
+          "source": "Owner-reported visit dates in What's Next Sam project conversation, 2026-11-07"
+        }
+      ]
     },
     {
       "cou": "Botswana",
@@ -412,7 +463,17 @@
       "lon": -106.3468,
       "ind": 1,
       "bok": 1,
-      "clk": 0
+      "clk": 0,
+      "visits": [
+        {
+          "date": "1994-01-01",
+          "precision": "month",
+          "sequence": 1,
+          "orderCertain": false,
+          "status": "visited",
+          "source": "Owner-reported visit dates in What's Next Sam project conversation, 2026-11-07"
+        }
+      ]
     },
     {
       "cou": "Canary Islands (Spain)",
@@ -555,7 +616,17 @@
       "lon": 33.4299,
       "ind": 1,
       "bok": 1,
-      "clk": 0
+      "clk": 0,
+      "visits": [
+        {
+          "date": "2017-12-01",
+          "precision": "month",
+          "sequence": 27,
+          "orderCertain": false,
+          "status": "visited",
+          "source": "Owner-reported visit dates in What's Next Sam project conversation, 2026-11-07"
+        }
+      ]
     },
     {
       "cou": "Czech Republic",
@@ -566,7 +637,17 @@
       "lon": 15.473,
       "ind": 1,
       "bok": 1,
-      "clk": 0
+      "clk": 0,
+      "visits": [
+        {
+          "date": "2005-07-01",
+          "precision": "month",
+          "sequence": 5,
+          "orderCertain": false,
+          "status": "visited",
+          "source": "Owner-reported visit dates in What's Next Sam project conversation, 2026-11-07"
+        }
+      ]
     },
     {
       "cou": "Democratic Republic of the Congo",
@@ -742,7 +823,17 @@
       "lon": 25.7482,
       "ind": 1,
       "bok": 1,
-      "clk": 0
+      "clk": 0,
+      "visits": [
+        {
+          "date": "2014-01-01",
+          "precision": "month",
+          "sequence": 19,
+          "orderCertain": false,
+          "status": "visited",
+          "source": "Owner-reported visit dates in What's Next Sam project conversation, 2026-11-07"
+        }
+      ]
     },
     {
       "cou": "France",
@@ -929,7 +1020,17 @@
       "lon": -86.5,
       "ind": 1,
       "bok": 1,
-      "clk": 0
+      "clk": 0,
+      "visits": [
+        {
+          "date": "2007-03-01",
+          "precision": "month",
+          "sequence": 13,
+          "orderCertain": false,
+          "status": "visited",
+          "source": "Owner-reported visit dates in What's Next Sam project conversation, 2026-11-07"
+        }
+      ]
     },
     {
       "cou": "Hong Kong (China)",
@@ -951,7 +1052,17 @@
       "lon": 19.5033,
       "ind": 1,
       "bok": 1,
-      "clk": 0
+      "clk": 0,
+      "visits": [
+        {
+          "date": "2014-01-01",
+          "precision": "year",
+          "sequence": 16,
+          "orderCertain": false,
+          "status": "visited",
+          "source": "Owner-reported visit dates in What's Next Sam project conversation, 2026-11-07"
+        }
+      ]
     },
     {
       "cou": "Iceland",
@@ -962,7 +1073,17 @@
       "lon": -19.0208,
       "ind": 1,
       "bok": 1,
-      "clk": 0
+      "clk": 0,
+      "visits": [
+        {
+          "date": "2016-12-01",
+          "precision": "month",
+          "sequence": 26,
+          "orderCertain": false,
+          "status": "visited",
+          "source": "Owner-reported visit dates in What's Next Sam project conversation, 2026-11-07"
+        }
+      ]
     },
     {
       "cou": "India",
@@ -1171,7 +1292,17 @@
       "lon": 24.6032,
       "ind": 1,
       "bok": 1,
-      "clk": 0
+      "clk": 0,
+      "visits": [
+        {
+          "date": "2015-09-01",
+          "precision": "month",
+          "sequence": 21,
+          "orderCertain": false,
+          "status": "visited",
+          "source": "Owner-reported visit dates in What's Next Sam project conversation, 2026-11-07"
+        }
+      ]
     },
     {
       "cou": "Lebanon",
@@ -1226,7 +1357,17 @@
       "lon": 9.5554,
       "ind": 1,
       "bok": 1,
-      "clk": 0
+      "clk": 0,
+      "visits": [
+        {
+          "date": "2005-07-01",
+          "precision": "month",
+          "sequence": 6,
+          "orderCertain": false,
+          "status": "visited",
+          "source": "Owner-reported visit dates in What's Next Sam project conversation, 2026-11-07"
+        }
+      ]
     },
     {
       "cou": "Lithuania",
@@ -1237,7 +1378,17 @@
       "lon": 23.8813,
       "ind": 1,
       "bok": 1,
-      "clk": 0
+      "clk": 0,
+      "visits": [
+        {
+          "date": "2015-09-01",
+          "precision": "month",
+          "sequence": 22,
+          "orderCertain": false,
+          "status": "visited",
+          "source": "Owner-reported visit dates in What's Next Sam project conversation, 2026-11-07"
+        }
+      ]
     },
     {
       "cou": "Luxembourg",
@@ -1424,7 +1575,17 @@
       "lon": 7.4167,
       "ind": 1,
       "bok": 1,
-      "clk": 0
+      "clk": 0,
+      "visits": [
+        {
+          "date": "2005-07-01",
+          "precision": "month",
+          "sequence": 7,
+          "orderCertain": false,
+          "status": "visited",
+          "source": "Owner-reported visit dates in What's Next Sam project conversation, 2026-11-07"
+        }
+      ]
     },
     {
       "cou": "Mongolia",
@@ -1446,7 +1607,17 @@
       "lon": 19.3,
       "ind": 1,
       "bok": 1,
-      "clk": 0
+      "clk": 0,
+      "visits": [
+        {
+          "date": "2018-07-01",
+          "precision": "month",
+          "sequence": 28,
+          "orderCertain": false,
+          "status": "visited",
+          "source": "Owner-reported visit dates in What's Next Sam project conversation, 2026-11-07"
+        }
+      ]
     },
     {
       "cou": "Morocco",
@@ -1457,7 +1628,17 @@
       "lon": -6,
       "ind": 1,
       "bok": 1,
-      "clk": 0
+      "clk": 0,
+      "visits": [
+        {
+          "date": "2007-07-01",
+          "precision": "month",
+          "sequence": 14,
+          "orderCertain": false,
+          "status": "visited",
+          "source": "Owner-reported visit dates in What's Next Sam project conversation, 2026-11-07"
+        }
+      ]
     },
     {
       "cou": "Mozambique",
@@ -1512,7 +1693,17 @@
       "lon": 84.124,
       "ind": 1,
       "bok": 0,
-      "clk": 0
+      "clk": 0,
+      "visits": [
+        {
+          "date": "2026-11-09",
+          "precision": "day",
+          "sequence": 31,
+          "orderCertain": false,
+          "status": "planned",
+          "source": "Owner-reported visit dates in What's Next Sam project conversation, 2026-11-07"
+        }
+      ]
     },
     {
       "cou": "Netherlands",
@@ -1523,7 +1714,17 @@
       "lon": 5.2913,
       "ind": 1,
       "bok": 1,
-      "clk": 0
+      "clk": 0,
+      "visits": [
+        {
+          "date": "2005-07-01",
+          "precision": "month",
+          "sequence": 8,
+          "orderCertain": false,
+          "status": "visited",
+          "source": "Owner-reported visit dates in What's Next Sam project conversation, 2026-11-07"
+        }
+      ]
     },
     {
       "cou": "New Zealand",
@@ -1600,7 +1801,17 @@
       "lon": 8.4689,
       "ind": 1,
       "bok": 1,
-      "clk": 0
+      "clk": 0,
+      "visits": [
+        {
+          "date": "2014-01-01",
+          "precision": "year",
+          "sequence": 17,
+          "orderCertain": false,
+          "status": "visited",
+          "source": "Owner-reported visit dates in What's Next Sam project conversation, 2026-11-07"
+        }
+      ]
     },
     {
       "cou": "Oman",
@@ -1710,7 +1921,17 @@
       "lon": 20,
       "ind": 1,
       "bok": 1,
-      "clk": 0
+      "clk": 0,
+      "visits": [
+        {
+          "date": "2014-08-01",
+          "precision": "month",
+          "sequence": 20,
+          "orderCertain": false,
+          "status": "visited",
+          "source": "Owner-reported visit dates in What's Next Sam project conversation, 2026-11-07"
+        }
+      ]
     },
     {
       "cou": "Portugal",
@@ -1721,7 +1942,17 @@
       "lon": -8,
       "ind": 1,
       "bok": 1,
-      "clk": 0
+      "clk": 0,
+      "visits": [
+        {
+          "date": "2016-08-01",
+          "precision": "month",
+          "sequence": 23,
+          "orderCertain": false,
+          "status": "visited",
+          "source": "Owner-reported visit dates in What's Next Sam project conversation, 2026-11-07"
+        }
+      ]
     },
     {
       "cou": "Puerto Rico (USA)",
@@ -1776,7 +2007,17 @@
       "lon": 25,
       "ind": 1,
       "bok": 1,
-      "clk": 0
+      "clk": 0,
+      "visits": [
+        {
+          "date": "2014-01-01",
+          "precision": "year",
+          "sequence": 18,
+          "orderCertain": false,
+          "status": "visited",
+          "source": "Owner-reported visit dates in What's Next Sam project conversation, 2026-11-07"
+        }
+      ]
     },
     {
       "cou": "Russia",
@@ -1864,7 +2105,17 @@
       "lon": 12.45,
       "ind": 1,
       "bok": 1,
-      "clk": 0
+      "clk": 0,
+      "visits": [
+        {
+          "date": "2005-07-01",
+          "precision": "month",
+          "sequence": 9,
+          "orderCertain": false,
+          "status": "visited",
+          "source": "Owner-reported visit dates in What's Next Sam project conversation, 2026-11-07"
+        }
+      ]
     },
     {
       "cou": "Sao Tome and Principe",
@@ -1908,7 +2159,17 @@
       "lon": 21,
       "ind": 1,
       "bok": 1,
-      "clk": 0
+      "clk": 0,
+      "visits": [
+        {
+          "date": "2016-08-01",
+          "precision": "month",
+          "sequence": 24,
+          "orderCertain": false,
+          "status": "visited",
+          "source": "Owner-reported visit dates in What's Next Sam project conversation, 2026-11-07"
+        }
+      ]
     },
     {
       "cou": "Seychelles",
@@ -1952,7 +2213,17 @@
       "lon": 19.699,
       "ind": 1,
       "bok": 1,
-      "clk": 0
+      "clk": 0,
+      "visits": [
+        {
+          "date": "2005-07-01",
+          "precision": "month",
+          "sequence": 10,
+          "orderCertain": false,
+          "status": "visited",
+          "source": "Owner-reported visit dates in What's Next Sam project conversation, 2026-11-07"
+        }
+      ]
     },
     {
       "cou": "Slovenia",
@@ -1963,7 +2234,17 @@
       "lon": 14.9955,
       "ind": 1,
       "bok": 1,
-      "clk": 0
+      "clk": 0,
+      "visits": [
+        {
+          "date": "2005-07-01",
+          "precision": "month",
+          "sequence": 11,
+          "orderCertain": false,
+          "status": "visited",
+          "source": "Owner-reported visit dates in What's Next Sam project conversation, 2026-11-07"
+        }
+      ]
     },
     {
       "cou": "Solomon Islands",
@@ -2095,7 +2376,17 @@
       "lon": 18.6435,
       "ind": 1,
       "bok": 1,
-      "clk": 0
+      "clk": 0,
+      "visits": [
+        {
+          "date": "2016-08-01",
+          "precision": "month",
+          "sequence": 25,
+          "orderCertain": false,
+          "status": "visited",
+          "source": "Owner-reported visit dates in What's Next Sam project conversation, 2026-11-07"
+        }
+      ]
     },
     {
       "cou": "Switzerland",
@@ -2304,7 +2595,17 @@
       "lon": 53.8478,
       "ind": 1,
       "bok": 1,
-      "clk": 0
+      "clk": 0,
+      "visits": [
+        {
+          "date": "2026-11-05",
+          "precision": "day",
+          "sequence": 30,
+          "orderCertain": false,
+          "status": "visited",
+          "source": "Owner-reported visit dates in What's Next Sam project conversation, 2026-11-07"
+        }
+      ]
     },
     {
       "cou": "United Kingdom",
@@ -2337,7 +2638,17 @@
       "lon": -55.7658,
       "ind": 1,
       "bok": 1,
-      "clk": 0
+      "clk": 0,
+      "visits": [
+        {
+          "date": "2010-01-01",
+          "precision": "year",
+          "sequence": 15,
+          "orderCertain": false,
+          "status": "visited",
+          "source": "Owner-reported visit dates in What's Next Sam project conversation, 2026-11-07"
+        }
+      ]
     },
     {
       "cou": "Uzbekistan",
@@ -2370,7 +2681,17 @@
       "lon": 12.4534,
       "ind": 1,
       "bok": 1,
-      "clk": 0
+      "clk": 0,
+      "visits": [
+        {
+          "date": "2005-07-01",
+          "precision": "month",
+          "sequence": 12,
+          "orderCertain": false,
+          "status": "visited",
+          "source": "Owner-reported visit dates in What's Next Sam project conversation, 2026-11-07"
+        }
+      ]
     },
     {
       "cou": "Venezuela",
@@ -2428,6 +2749,6 @@
       "clk": 0
     }
   ],
-  "nextCountry": "Armenia",
-  "nextData": "October 3, 2026"
+  "nextCountry": "Nepal",
+  "nextData": "November 9, 2026"
 }
