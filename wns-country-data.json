@@ -104,7 +104,9 @@
           "status": "visited",
           "source": "https://www.whatsnextsam.com/annual-review-2010/",
           "reviewPeriod": "2010",
-          "reviewOrder": 3
+          "reviewOrder": 3,
+          "firstVisit": true,
+          "firstVisitSource": "Owner confirmed first visits in the 2010 review: Argentina, Brazil, Chile, Ecuador, Colombia, Panama, Venezuela and Curacao."
         },
         {
           "date": "2023-01-01",
@@ -497,7 +499,9 @@
           "status": "visited",
           "source": "https://www.whatsnextsam.com/annual-review-2010/",
           "reviewPeriod": "2010",
-          "reviewOrder": 2
+          "reviewOrder": 2,
+          "firstVisit": true,
+          "firstVisitSource": "Owner confirmed first visits in the 2010 review: Argentina, Brazil, Chile, Ecuador, Colombia, Panama, Venezuela and Curacao."
         },
         {
           "date": "2011-01-19",
@@ -712,7 +716,9 @@
           "status": "visited",
           "source": "https://www.whatsnextsam.com/annual-review-2010/",
           "reviewPeriod": "2010",
-          "reviewOrder": 4
+          "reviewOrder": 4,
+          "firstVisit": true,
+          "firstVisitSource": "Owner confirmed first visits in the 2010 review: Argentina, Brazil, Chile, Ecuador, Colombia, Panama, Venezuela and Curacao."
         },
         {
           "date": "2024-01-01",
@@ -756,7 +762,9 @@
           "status": "visited",
           "source": "https://www.whatsnextsam.com/annual-review-2010/",
           "reviewPeriod": "2010",
-          "reviewOrder": 6
+          "reviewOrder": 6,
+          "firstVisit": true,
+          "firstVisitSource": "Owner confirmed first visits in the 2010 review: Argentina, Brazil, Chile, Ecuador, Colombia, Panama, Venezuela and Curacao."
         },
         {
           "date": "2012-08-31",
@@ -875,7 +883,9 @@
           "status": "visited",
           "source": "https://www.whatsnextsam.com/annual-review-2010/",
           "reviewPeriod": "2010",
-          "reviewOrder": 13
+          "reviewOrder": 13,
+          "firstVisit": true,
+          "firstVisitSource": "Owner confirmed first visits in the 2010 review: Argentina, Brazil, Chile, Ecuador, Colombia, Panama, Venezuela and Curacao."
         },
         {
           "date": "2011-01-01",
@@ -1017,7 +1027,9 @@
           "status": "visited",
           "source": "https://www.whatsnextsam.com/annual-review-2010/",
           "reviewPeriod": "2010",
-          "reviewOrder": 5
+          "reviewOrder": 5,
+          "firstVisit": true,
+          "firstVisitSource": "Owner confirmed first visits in the 2010 review: Argentina, Brazil, Chile, Ecuador, Colombia, Panama, Venezuela and Curacao."
         }
       ]
     },
@@ -2470,7 +2482,9 @@
           "status": "visited",
           "source": "https://www.whatsnextsam.com/annual-review-2010/",
           "reviewPeriod": "2010",
-          "reviewOrder": 7
+          "reviewOrder": 7,
+          "firstVisit": true,
+          "firstVisitSource": "Owner confirmed first visits in the 2010 review: Argentina, Brazil, Chile, Ecuador, Colombia, Panama, Venezuela and Curacao."
         },
         {
           "date": "2010-09-22",
@@ -3804,7 +3818,9 @@
           "status": "visited",
           "source": "https://www.whatsnextsam.com/annual-review-2010/",
           "reviewPeriod": "2010",
-          "reviewOrder": 11
+          "reviewOrder": 11,
+          "firstVisit": true,
+          "firstVisitSource": "Owner confirmed first visits in the 2010 review: Argentina, Brazil, Chile, Ecuador, Colombia, Panama, Venezuela and Curacao."
         },
         {
           "date": "2011-01-01",
