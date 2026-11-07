@@ -2305,17 +2305,6 @@
           "orderCertain": false,
           "status": "visited",
           "source": "Owner-reported visit dates in What's Next Sam project conversation, 2026-11-07"
-        },
-        {
-          "date": "2019-01-01",
-          "precision": "year",
-          "sequence": 87,
-          "orderCertain": false,
-          "status": "visited",
-          "source": "https://www.whatsnextsam.com/annual-review-2019/",
-          "reviewPeriod": "2019",
-          "reviewOrder": 9,
-          "location": "Sint Maarten"
         }
       ]
     },
@@ -3147,7 +3136,19 @@
       "lon": -63.0548,
       "ind": 0,
       "bok": 1,
-      "clk": 0
+      "clk": 0,
+      "visits": [
+        {
+          "date": "2019-01-01",
+          "precision": "year",
+          "sequence": 87,
+          "orderCertain": false,
+          "status": "visited",
+          "source": "https://www.whatsnextsam.com/annual-review-2019/",
+          "reviewPeriod": "2019",
+          "reviewOrder": 9
+        }
+      ]
     },
     {
       "cou": "St Martin (France)",
