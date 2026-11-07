@@ -399,7 +399,9 @@
           "status": "visited",
           "source": "https://www.whatsnextsam.com/annual-review-2011/",
           "reviewPeriod": "2011",
-          "reviewOrder": 7
+          "reviewOrder": 7,
+          "firstVisit": true,
+          "firstVisitSource": "https://www.whatsnextsam.com/annual-review-2011/"
         }
       ]
     },
@@ -1052,7 +1054,9 @@
           "status": "visited",
           "source": "https://www.whatsnextsam.com/annual-review-2011/",
           "reviewPeriod": "2011",
-          "reviewOrder": 12
+          "reviewOrder": 12,
+          "firstVisit": true,
+          "firstVisitSource": "https://www.whatsnextsam.com/annual-review-2011/"
         },
         {
           "date": "2011-11-18",
@@ -1085,7 +1089,9 @@
           "status": "visited",
           "source": "https://www.whatsnextsam.com/annual-review-2021/",
           "reviewPeriod": "2021",
-          "reviewOrder": 4
+          "reviewOrder": 4,
+          "firstVisit": true,
+          "firstVisitSource": "https://www.whatsnextsam.com/annual-review-2021/"
         }
       ]
     },
@@ -1615,7 +1621,9 @@
           "status": "visited",
           "source": "https://www.whatsnextsam.com/annual-review-2011/",
           "reviewPeriod": "2011",
-          "reviewOrder": 13
+          "reviewOrder": 13,
+          "firstVisit": true,
+          "firstVisitSource": "https://www.whatsnextsam.com/annual-review-2011/"
         }
       ]
     },
@@ -1704,7 +1712,9 @@
           "status": "visited",
           "source": "https://www.whatsnextsam.com/annual-review-2011/",
           "reviewPeriod": "2011",
-          "reviewOrder": 14
+          "reviewOrder": 14,
+          "firstVisit": true,
+          "firstVisitSource": "https://www.whatsnextsam.com/annual-review-2011/"
         }
       ]
     },
@@ -1738,7 +1748,9 @@
           "status": "visited",
           "source": "https://www.whatsnextsam.com/annual-review-2023/",
           "reviewPeriod": "2023",
-          "reviewOrder": 3
+          "reviewOrder": 3,
+          "firstVisit": true,
+          "firstVisitSource": "https://www.whatsnextsam.com/annual-review-2023/"
         }
       ]
     },
@@ -2229,7 +2241,9 @@
           "status": "visited",
           "source": "https://www.whatsnextsam.com/annual-review-2023/",
           "reviewPeriod": "2023",
-          "reviewOrder": 2
+          "reviewOrder": 2,
+          "firstVisit": true,
+          "firstVisitSource": "https://www.whatsnextsam.com/annual-review-2023/"
         }
       ]
     },
@@ -2350,7 +2364,9 @@
           "status": "visited",
           "source": "https://www.whatsnextsam.com/annual-review-2021/",
           "reviewPeriod": "2021",
-          "reviewOrder": 3
+          "reviewOrder": 3,
+          "firstVisit": true,
+          "firstVisitSource": "https://www.whatsnextsam.com/annual-review-2021/"
         }
       ]
     },
@@ -2528,7 +2544,9 @@
           "status": "visited",
           "source": "https://www.whatsnextsam.com/annual-review-2023/",
           "reviewPeriod": "2023",
-          "reviewOrder": 6
+          "reviewOrder": 6,
+          "firstVisit": true,
+          "firstVisitSource": "https://www.whatsnextsam.com/annual-review-2023/"
         }
       ]
     },
@@ -2551,7 +2569,9 @@
           "status": "visited",
           "source": "https://www.whatsnextsam.com/annual-review-2011/",
           "reviewPeriod": "2011",
-          "reviewOrder": 6
+          "reviewOrder": 6,
+          "firstVisit": true,
+          "firstVisitSource": "https://www.whatsnextsam.com/annual-review-2011/"
         },
         {
           "date": "2019-01-01",
@@ -3337,7 +3357,9 @@
           "status": "visited",
           "source": "https://www.whatsnextsam.com/annual-review-2023/",
           "reviewPeriod": "2023",
-          "reviewOrder": 4
+          "reviewOrder": 4,
+          "firstVisit": true,
+          "firstVisitSource": "https://www.whatsnextsam.com/annual-review-2023/"
         }
       ]
     },
@@ -3449,7 +3471,9 @@
           "status": "visited",
           "source": "https://www.whatsnextsam.com/annual-review-2011/",
           "reviewPeriod": "2011",
-          "reviewOrder": 11
+          "reviewOrder": 11,
+          "firstVisit": true,
+          "firstVisitSource": "https://www.whatsnextsam.com/annual-review-2011/"
         },
         {
           "date": "2011-11-28",
