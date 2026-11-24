@@ -28,7 +28,21 @@
       "lon": 20.1683,
       "ind": 1,
       "bok": 1,
-      "clk": 0
+      "clk": 0,
+      "visits": [
+        {
+          "date": null,
+          "precision": "unknown",
+          "sequence": 138,
+          "orderCertain": false,
+          "status": "visited",
+          "source": "https://www.whatsnextsam.com/annual-review-2026/",
+          "reviewPeriod": "2026",
+          "reviewOrder": 5,
+          "firstVisit": true,
+          "firstVisitSource": "Owner confirmed first visits by review period in What's Next Sam project conversation, 2026-11-24."
+        }
+      ]
     },
     {
       "cou": "Algeria",
@@ -147,7 +161,11 @@
           "sequence": 29,
           "orderCertain": false,
           "status": "visited",
-          "source": "Owner-reported visit dates in What's Next Sam project conversation, 2026-11-07"
+          "source": "Owner-reported visit dates in What's Next Sam project conversation, 2026-11-07",
+          "reviewPeriod": "2026",
+          "reviewOrder": 20,
+          "firstVisit": true,
+          "firstVisitSource": "Owner confirmed first visits by review period in What's Next Sam project conversation, 2026-11-24."
         }
       ]
     },
@@ -303,7 +321,9 @@
           "status": "visited",
           "source": "https://www.whatsnextsam.com/annual-review-2020/",
           "reviewPeriod": "2020",
-          "reviewOrder": 2
+          "reviewOrder": 2,
+          "firstVisit": true,
+          "firstVisitSource": "Owner confirmed first visits by review period in What's Next Sam project conversation, 2026-11-24."
         }
       ]
     },
@@ -482,7 +502,9 @@
           "status": "visited",
           "source": "https://www.whatsnextsam.com/annual-review-2022/",
           "reviewPeriod": "2022",
-          "reviewOrder": 9
+          "reviewOrder": 9,
+          "firstVisit": true,
+          "firstVisitSource": "Owner confirmed first visits by review period in What's Next Sam project conversation, 2026-11-24."
         }
       ]
     },
@@ -581,7 +603,21 @@
       "lon": 24.4858,
       "ind": 1,
       "bok": 1,
-      "clk": 0
+      "clk": 0,
+      "visits": [
+        {
+          "date": null,
+          "precision": "unknown",
+          "sequence": 141,
+          "orderCertain": false,
+          "status": "visited",
+          "source": "https://www.whatsnextsam.com/annual-review-2026/",
+          "reviewPeriod": "2026",
+          "reviewOrder": 8,
+          "firstVisit": true,
+          "firstVisitSource": "Owner confirmed first visits by review period in What's Next Sam project conversation, 2026-11-24."
+        }
+      ]
     },
     {
       "cou": "Burkina Faso",
@@ -824,7 +860,9 @@
           "status": "visited",
           "source": "https://www.whatsnextsam.com/annual-review-2020/",
           "reviewPeriod": "2020",
-          "reviewOrder": 7
+          "reviewOrder": 7,
+          "firstVisit": true,
+          "firstVisitSource": "Owner confirmed first visits by review period in What's Next Sam project conversation, 2026-11-24."
         },
         {
           "date": "2020-01-01",
@@ -1299,7 +1337,21 @@
       "lon": 43.3569,
       "ind": 1,
       "bok": 1,
-      "clk": 0
+      "clk": 0,
+      "visits": [
+        {
+          "date": null,
+          "precision": "unknown",
+          "sequence": 149,
+          "orderCertain": false,
+          "status": "visited",
+          "source": "https://www.whatsnextsam.com/annual-review-2026/",
+          "reviewPeriod": "2026",
+          "reviewOrder": 19,
+          "firstVisit": true,
+          "firstVisitSource": "Owner confirmed first visits by review period in What's Next Sam project conversation, 2026-11-24."
+        }
+      ]
     },
     {
       "cou": "Germany",
@@ -1376,7 +1428,9 @@
           "status": "visited",
           "source": "https://www.whatsnextsam.com/annual-review-2020/",
           "reviewPeriod": "2020",
-          "reviewOrder": 4
+          "reviewOrder": 4,
+          "firstVisit": true,
+          "firstVisitSource": "Owner confirmed first visits by review period in What's Next Sam project conversation, 2026-11-24."
         }
       ]
     },
@@ -1399,7 +1453,9 @@
           "status": "visited",
           "source": "https://www.whatsnextsam.com/annual-review-2025/",
           "reviewPeriod": "2025",
-          "reviewOrder": 6
+          "reviewOrder": 6,
+          "firstVisit": true,
+          "firstVisitSource": "Owner confirmed first visits by review period in What's Next Sam project conversation, 2026-11-24."
         }
       ]
     },
@@ -1444,7 +1500,9 @@
           "status": "visited",
           "source": "https://www.whatsnextsam.com/annual-review-2025/",
           "reviewPeriod": "2025",
-          "reviewOrder": 4
+          "reviewOrder": 4,
+          "firstVisit": true,
+          "firstVisitSource": "Owner confirmed first visits by review period in What's Next Sam project conversation, 2026-11-24."
         }
       ]
     },
@@ -1614,7 +1672,9 @@
           "status": "visited",
           "source": "https://www.whatsnextsam.com/annual-review-2022/",
           "reviewPeriod": "2022",
-          "reviewOrder": 4
+          "reviewOrder": 4,
+          "firstVisit": true,
+          "firstVisitSource": "Owner confirmed first visits by review period in What's Next Sam project conversation, 2026-11-24."
         }
       ]
     },
@@ -1743,7 +1803,21 @@
       "lon": 66.9237,
       "ind": 1,
       "bok": 1,
-      "clk": 0
+      "clk": 0,
+      "visits": [
+        {
+          "date": null,
+          "precision": "unknown",
+          "sequence": 144,
+          "orderCertain": false,
+          "status": "visited",
+          "source": "https://www.whatsnextsam.com/annual-review-2026/",
+          "reviewPeriod": "2026",
+          "reviewOrder": 14,
+          "firstVisit": true,
+          "firstVisitSource": "Owner confirmed first visits by review period in What's Next Sam project conversation, 2026-11-24."
+        }
+      ]
     },
     {
       "cou": "Kenya",
@@ -1790,7 +1864,21 @@
       "lon": 20.9029,
       "ind": 1,
       "bok": 1,
-      "clk": 0
+      "clk": 0,
+      "visits": [
+        {
+          "date": null,
+          "precision": "unknown",
+          "sequence": 139,
+          "orderCertain": false,
+          "status": "visited",
+          "source": "https://www.whatsnextsam.com/annual-review-2026/",
+          "reviewPeriod": "2026",
+          "reviewOrder": 6,
+          "firstVisit": true,
+          "firstVisitSource": "Owner confirmed first visits by review period in What's Next Sam project conversation, 2026-11-24."
+        }
+      ]
     },
     {
       "cou": "Kuwait",
@@ -1812,7 +1900,21 @@
       "lon": 74.7661,
       "ind": 1,
       "bok": 1,
-      "clk": 0
+      "clk": 0,
+      "visits": [
+        {
+          "date": null,
+          "precision": "unknown",
+          "sequence": 145,
+          "orderCertain": false,
+          "status": "visited",
+          "source": "https://www.whatsnextsam.com/annual-review-2026/",
+          "reviewPeriod": "2026",
+          "reviewOrder": 15,
+          "firstVisit": true,
+          "firstVisitSource": "Owner confirmed first visits by review period in What's Next Sam project conversation, 2026-11-24."
+        }
+      ]
     },
     {
       "cou": "Laos",
@@ -2036,7 +2138,21 @@
       "lon": 14.3754,
       "ind": 1,
       "bok": 1,
-      "clk": 0
+      "clk": 0,
+      "visits": [
+        {
+          "date": null,
+          "precision": "unknown",
+          "sequence": 137,
+          "orderCertain": false,
+          "status": "visited",
+          "source": "https://www.whatsnextsam.com/annual-review-2026/",
+          "reviewPeriod": "2026",
+          "reviewOrder": 4,
+          "firstVisit": true,
+          "firstVisitSource": "Owner confirmed first visits by review period in What's Next Sam project conversation, 2026-11-24."
+        }
+      ]
     },
     {
       "cou": "Marshall Islands",
@@ -2068,7 +2184,9 @@
           "status": "visited",
           "source": "https://www.whatsnextsam.com/annual-review-2019/",
           "reviewPeriod": "2019",
-          "reviewOrder": 10
+          "reviewOrder": 10,
+          "firstVisit": true,
+          "firstVisitSource": "Owner confirmed first visits by review period in What's Next Sam project conversation, 2026-11-24."
         }
       ]
     },
@@ -2168,7 +2286,34 @@
       "lon": 28.3699,
       "ind": 1,
       "bok": 1,
-      "clk": 0
+      "clk": 0,
+      "visits": [
+        {
+          "date": null,
+          "precision": "unknown",
+          "sequence": 142,
+          "orderCertain": false,
+          "status": "visited",
+          "source": "https://www.whatsnextsam.com/annual-review-2026/",
+          "reviewPeriod": "2026",
+          "reviewOrder": 9,
+          "firstVisit": true,
+          "firstVisitSource": "Owner confirmed first visits by review period in What's Next Sam project conversation, 2026-11-24."
+        },
+        {
+          "date": null,
+          "precision": "unknown",
+          "sequence": 150,
+          "orderCertain": false,
+          "status": "visited",
+          "source": "https://www.whatsnextsam.com/annual-review-2026/",
+          "reviewPeriod": "2026",
+          "reviewOrder": 10,
+          "location": "Transnistria",
+          "firstVisit": true,
+          "firstVisitSource": "Owner confirmed first visits by review period in What's Next Sam project conversation, 2026-11-24."
+        }
+      ]
     },
     {
       "cou": "Monaco",
@@ -2301,7 +2446,9 @@
           "status": "visited",
           "source": "https://www.whatsnextsam.com/annual-review-2022/",
           "reviewPeriod": "2022",
-          "reviewOrder": 10
+          "reviewOrder": 10,
+          "firstVisit": true,
+          "firstVisitSource": "Owner confirmed first visits by review period in What's Next Sam project conversation, 2026-11-24."
         }
       ]
     },
@@ -2334,7 +2481,11 @@
           "orderCertain": false,
           "status": "visited",
           "source": "Owner-reported Nepal stay, November 9 through December 31, 2026, in project conversation on 2026-11-24",
-          "endDate": "2026-12-31"
+          "endDate": "2026-12-31",
+          "reviewPeriod": "2026",
+          "reviewOrder": 22,
+          "firstVisit": true,
+          "firstVisitSource": "Owner confirmed first visits by review period in What's Next Sam project conversation, 2026-11-24."
         }
       ]
     },
@@ -2437,7 +2588,21 @@
       "lon": 21.7453,
       "ind": 1,
       "bok": 1,
-      "clk": 0
+      "clk": 0,
+      "visits": [
+        {
+          "date": null,
+          "precision": "unknown",
+          "sequence": 140,
+          "orderCertain": false,
+          "status": "visited",
+          "source": "https://www.whatsnextsam.com/annual-review-2026/",
+          "reviewPeriod": "2026",
+          "reviewOrder": 7,
+          "firstVisit": true,
+          "firstVisitSource": "Owner confirmed first visits by review period in What's Next Sam project conversation, 2026-11-24."
+        }
+      ]
     },
     {
       "cou": "Norway",
@@ -2812,7 +2977,9 @@
           "status": "visited",
           "source": "https://www.whatsnextsam.com/annual-review-2019/",
           "reviewPeriod": "2019",
-          "reviewOrder": 11
+          "reviewOrder": 11,
+          "firstVisit": true,
+          "firstVisitSource": "Owner confirmed first visits by review period in What's Next Sam project conversation, 2026-11-24."
         },
         {
           "date": "2020-01-01",
@@ -2845,7 +3012,9 @@
           "status": "visited",
           "source": "https://www.whatsnextsam.com/annual-review-2020/",
           "reviewPeriod": "2020",
-          "reviewOrder": 3
+          "reviewOrder": 3,
+          "firstVisit": true,
+          "firstVisitSource": "Owner confirmed first visits by review period in What's Next Sam project conversation, 2026-11-24."
         }
       ]
     },
@@ -2933,7 +3102,9 @@
           "status": "visited",
           "source": "https://www.whatsnextsam.com/annual-review-2019/",
           "reviewPeriod": "2019",
-          "reviewOrder": 2
+          "reviewOrder": 2,
+          "firstVisit": true,
+          "firstVisitSource": "Owner confirmed first visits by review period in What's Next Sam project conversation, 2026-11-24."
         }
       ]
     },
@@ -3100,7 +3271,9 @@
           "status": "visited",
           "source": "https://www.whatsnextsam.com/annual-review-2022/",
           "reviewPeriod": "2022",
-          "reviewOrder": 6
+          "reviewOrder": 6,
+          "firstVisit": true,
+          "firstVisitSource": "Owner confirmed first visits by review period in What's Next Sam project conversation, 2026-11-24."
         },
         {
           "date": "2023-01-01",
@@ -3229,7 +3402,9 @@
           "status": "visited",
           "source": "https://www.whatsnextsam.com/annual-review-2019/",
           "reviewPeriod": "2019",
-          "reviewOrder": 9
+          "reviewOrder": 9,
+          "firstVisit": true,
+          "firstVisitSource": "Owner confirmed first visits by review period in What's Next Sam project conversation, 2026-11-24."
         }
       ]
     },
@@ -3286,7 +3461,9 @@
           "status": "visited",
           "source": "https://www.whatsnextsam.com/annual-review-2025/",
           "reviewPeriod": "2025",
-          "reviewOrder": 3
+          "reviewOrder": 3,
+          "firstVisit": true,
+          "firstVisitSource": "Owner confirmed first visits by review period in What's Next Sam project conversation, 2026-11-24."
         }
       ]
     },
@@ -3377,7 +3554,21 @@
       "lon": 71.2761,
       "ind": 1,
       "bok": 1,
-      "clk": 0
+      "clk": 0,
+      "visits": [
+        {
+          "date": null,
+          "precision": "unknown",
+          "sequence": 146,
+          "orderCertain": false,
+          "status": "visited",
+          "source": "https://www.whatsnextsam.com/annual-review-2026/",
+          "reviewPeriod": "2026",
+          "reviewOrder": 16,
+          "firstVisit": true,
+          "firstVisitSource": "Owner confirmed first visits by review period in What's Next Sam project conversation, 2026-11-24."
+        }
+      ]
     },
     {
       "cou": "Tanzania",
@@ -3539,7 +3730,21 @@
       "lon": 59.5563,
       "ind": 1,
       "bok": 1,
-      "clk": 0
+      "clk": 0,
+      "visits": [
+        {
+          "date": null,
+          "precision": "unknown",
+          "sequence": 148,
+          "orderCertain": false,
+          "status": "visited",
+          "source": "https://www.whatsnextsam.com/annual-review-2026/",
+          "reviewPeriod": "2026",
+          "reviewOrder": 18,
+          "firstVisit": true,
+          "firstVisitSource": "Owner confirmed first visits by review period in What's Next Sam project conversation, 2026-11-24."
+        }
+      ]
     },
     {
       "cou": "Turks and Caicos Islands (UK)",
@@ -3583,7 +3788,21 @@
       "lon": 32.1656,
       "ind": 1,
       "bok": 1,
-      "clk": 0
+      "clk": 0,
+      "visits": [
+        {
+          "date": null,
+          "precision": "unknown",
+          "sequence": 143,
+          "orderCertain": false,
+          "status": "visited",
+          "source": "https://www.whatsnextsam.com/annual-review-2026/",
+          "reviewPeriod": "2026",
+          "reviewOrder": 11,
+          "firstVisit": true,
+          "firstVisitSource": "Owner confirmed first visits by review period in What's Next Sam project conversation, 2026-11-24."
+        }
+      ]
     },
     {
       "cou": "United Arab Emirates",
@@ -3602,7 +3821,11 @@
           "sequence": 30,
           "orderCertain": false,
           "status": "visited",
-          "source": "Owner-reported visit dates in What's Next Sam project conversation, 2026-11-07"
+          "source": "Owner-reported visit dates in What's Next Sam project conversation, 2026-11-07",
+          "reviewPeriod": "2026",
+          "reviewOrder": 21,
+          "firstVisit": true,
+          "firstVisitSource": "Owner confirmed first visits by review period in What's Next Sam project conversation, 2026-11-24."
         }
       ]
     },
@@ -3832,7 +4055,21 @@
       "lon": 64.5853,
       "ind": 1,
       "bok": 1,
-      "clk": 0
+      "clk": 0,
+      "visits": [
+        {
+          "date": null,
+          "precision": "unknown",
+          "sequence": 147,
+          "orderCertain": false,
+          "status": "visited",
+          "source": "https://www.whatsnextsam.com/annual-review-2026/",
+          "reviewPeriod": "2026",
+          "reviewOrder": 17,
+          "firstVisit": true,
+          "firstVisitSource": "Owner confirmed first visits by review period in What's Next Sam project conversation, 2026-11-24."
+        }
+      ]
     },
     {
       "cou": "Vanuatu",
@@ -3956,7 +4193,9 @@
           "status": "visited",
           "source": "https://www.whatsnextsam.com/annual-review-2022/",
           "reviewPeriod": "2022",
-          "reviewOrder": 8
+          "reviewOrder": 8,
+          "firstVisit": true,
+          "firstVisitSource": "Owner confirmed first visits by review period in What's Next Sam project conversation, 2026-11-24."
         }
       ]
     },
@@ -3979,7 +4218,9 @@
           "status": "visited",
           "source": "https://www.whatsnextsam.com/annual-review-2022/",
           "reviewPeriod": "2022",
-          "reviewOrder": 7
+          "reviewOrder": 7,
+          "firstVisit": true,
+          "firstVisitSource": "Owner confirmed first visits by review period in What's Next Sam project conversation, 2026-11-24."
         }
       ]
     }
